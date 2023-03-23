@@ -1,4 +1,4 @@
-string = input('wpisz liczbe')
+string = input('Cipka')
 
 liczba=float(string)
 
